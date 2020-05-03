@@ -1,0 +1,17 @@
+I chose a microservices architecture.
+
+Reasons why choosing:
+1. My own interest
+2. It's popular
+3. My application will be successfully divided into microservices.
+
+Microservices:
+
+1. album-editor - editor, logic to create albums
+2. album-player - player, logic to display and play albums
+3. album-storage - albums data storage
+4. album-images - albums images storage
+
+There is a hexagonal architecture in every microservice.
+
+HTTP is a way for communication between microservices.
