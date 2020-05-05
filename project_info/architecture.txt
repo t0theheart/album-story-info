@@ -12,4 +12,4 @@ Microservices:
 
 There is a hexagonal architecture in every microservice.
 
-HTTP is a way for communication between microservices.
+HTTP is a way for communication between microservices and web client.
