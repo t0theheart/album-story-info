@@ -3,7 +3,7 @@ I chose a microservices architecture.
 Reasons why choosing:
 1. My own interest
 2. It's popular
-3. My application will be successfully divided into microservices.
+3. My application will be successfully divided into microservices with its own logic (The Single Responsibility Principle)
 
 Microservices:
 
