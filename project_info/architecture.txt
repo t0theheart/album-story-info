@@ -7,10 +7,9 @@ Reasons why choosing:
 
 Microservices:
 
-1. album-editor - editor, logic to create albums
-2. album-player - player, logic to display and play albums
-3. album-storage - albums data storage
-4. album-images - albums images storage
+1. album-storage (albums data storage)
+2. album-images (albums images storage)
+3. album-users (users and authentication)
 
 There is a hexagonal architecture in every microservice.
 
