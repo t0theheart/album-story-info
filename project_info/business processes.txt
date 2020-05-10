@@ -1,0 +1,18 @@
+1. Registration
+User must registrate a profile to open the profile page.
+
+2. Authorization
+User must be authorized to manage albums in the profile page.
+
+3. Create album
+Authorized user can create album with parameters.
+
+4. Update album
+Authorized user can update own albums and album's parameters.
+
+5. Delete album
+Authorized user can delete own albums.
+
+6. View album
+User can view all created albums by all users in the table on the main page.
+Authorized user can view own albums in the profile page.
