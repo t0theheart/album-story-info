@@ -1,5 +1,5 @@
 1. Registration
-User must registrate a profile to open the profile page.
+User can register a profile.
 
 2. Authorization
 User must be authorized to manage albums in the profile page.
